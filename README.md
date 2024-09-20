@@ -51,7 +51,7 @@ To practice the SQL queries:
 1. Install a MySQL database or any SQL-compatible environment.
 2. Clone this repository:
     ```
-    git clone https://github.com/yourusername/sql-cheat-sheet.git
+    git clone https://github.com/Adarsha Rimal/MY_SQL.git
     ```
 3. Navigate to the `practice_questions` folder and execute the queries in your SQL editor.
 
